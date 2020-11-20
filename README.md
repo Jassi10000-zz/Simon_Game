@@ -11,6 +11,6 @@ Wanna play!!  Click this : [👉🔥 Here 🔥👈](enjoysimongame.netlify.app)
 
 
 ## You can even fork it to have it in ur own Github
-# If you want to experience how the code is written , You can even Clone / Download it to analyse it in ur own machine  🔥🔥
+# If you want to experience how the code is written , You can even Clone / Download it to analyse it in ur own machine 🔥🔥
 
 ## Dont forget to give it ur love 💝 a necessarily a Star ✨
