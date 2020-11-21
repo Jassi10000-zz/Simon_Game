@@ -1,6 +1,6 @@
 # Simon Game
 
-Wanna play!!  Click this : [👉🔥 Here 🔥👈](enjoysimongame.netlify.app)
+Wanna play!! 🤩 Click this : [👉🔥 Here 🔥👈](enjoysimongame.netlify.app)
 
 ### Some insights of the project
 
